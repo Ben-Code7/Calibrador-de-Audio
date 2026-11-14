@@ -1,0 +1,6 @@
+{
+  "name": "Calibrador Acústico en Vivo",
+  "description": "Instrumento de calibración y análisis de audio en tiempo real con analizador RTA, osciloscopio, generador de referencia y corrección paramétrica.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
